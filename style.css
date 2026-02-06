@@ -246,7 +246,10 @@ body.has-pointer .cursor-trail {
   box-shadow: var(--shadow);
 }
 
-.brand {
+a.brand,
+a.brand:hover,
+a.brand:visited,
+a.brand:active {
   display: flex;
   flex-direction: column;
   gap: 4px;
