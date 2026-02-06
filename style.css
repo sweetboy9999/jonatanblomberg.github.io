@@ -250,6 +250,7 @@ body.has-pointer .cursor-trail {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  text-decoration: none;
 }
 
 .brand__name {
